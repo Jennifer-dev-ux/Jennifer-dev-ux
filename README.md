@@ -9,4 +9,6 @@ I’m a Software Engineering student who enjoys building useful applications and
 - Tools & Practices: Git/GitHub, IntelliJ, VS Code, PHPStorm, Secure Coding, Encryption, Agile/Scrum, Testing & Debugging
 - Networking & Security: Networking fundamentals (OSI, NAT, routing), Security principles (hashing, access control)
 
-#### How to reach me: nyalimajennifer@gmail.com
+#### How to reach me: 
+- email: nyalimajennifer@gmail.com
+- linkedin: www.linkedin.com/in/jennifer-en-kamara
