@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Jennifer!
 
 I’m a Software Engineering student who enjoys building useful applications and constantly learning new technologies to improve my skills.
+https://jennifer-dev-ux.github.io/MyPortfolio/
 
 #### Technical Skills:
 - Frontend: HTML, CSS, JavaScript, Bootstrap, UI/UX
